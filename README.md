@@ -1,13 +1,4 @@
-# Blog Persona
-
 ## Blog Alberto Bernaola
-
-### Navegación
-- [Inicio](#)
-- [Sobre mí](#)
-- [Contacto](#)
-
-## Contenido Principal
 
 ### Data Science
 
@@ -17,6 +8,3 @@ En la era actual, el campo de la ciencia de datos implica ser mucho más que un 
 
 Es fundamental no solo adoptar las últimas tecnologías sino también alinearse continuamente con los objetivos del negocio. Entender cómo evoluciona a lo largo del tiempo es esencial, ya que lo que funciona hoy puede necesitar ajustes mañana. Por lo tanto, es imperativo mantenernos constantemente actualizados con las tendencias tecnológicas y tener una comprensión profunda de nuestro sector para asegurar el éxito a largo plazo de la automatización y el respaldo a los procesos empresariales.
 
-## Pie de Página
-
-© 2024 Mi Blog Personal. Todos los derechos reservados.
